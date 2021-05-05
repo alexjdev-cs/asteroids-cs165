@@ -9,3 +9,5 @@ Without modification, compilation requires a GNU/Linux operating system (CMake a
 glut GLU openGL
 
 To compile the program, clone or download the repository, open the directory in a terminal, and run Make.
+
+Program entry is in driver.cpp :: main()
